@@ -24,6 +24,8 @@ public class ProjectoFrancoGit {
        
         System.out.println("El numero al azar escogido es: "+num);
        
+        System.out.println("Has adivinado el numero");
+        System.out.println("Has ganado");
     }
     
 }
