@@ -22,7 +22,7 @@ public class ProjectoFrancoGit {
        
        num=numerosAleatorios.nextInt(100);
        
-        System.out.println("El numero elegido al azar es: "+num);
+        System.out.println("El numero al azar escogido es: "+num);
        
     }
     
